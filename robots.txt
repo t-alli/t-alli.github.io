@@ -1,0 +1,4 @@
+Sitemap: https://t-alli.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: t-alli.github.io
